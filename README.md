@@ -2,6 +2,8 @@
 
 MrBayes is a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. MrBayes uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.
 
+The habitat package is available on public builder here: <https://bldr.habitat.sh/#/pkgs/chef-davin/mr_bayes/latest>
+
 ## Maintainers
 
 Davin Taddeo (davin@chef.io) maintains this habitat packaging repo, but has nothing to do with maintaining the actual Mr Bayes code.
